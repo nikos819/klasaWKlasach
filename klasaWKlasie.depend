@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1789971650 source:e:\4tp\piasd\klasawklasie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdint>
+
